@@ -195,3 +195,7 @@ font-family: "Poppins", serif;
   .user-area .container{
     height: 100vh;
   }
+
+  .user-link{
+    color: var(--secondary-clr);
+  }
